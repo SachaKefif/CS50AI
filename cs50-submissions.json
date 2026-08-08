@@ -1,0 +1,65 @@
+{
+  "repository": "https://github.com/me50/SachaKefif.git",
+  "projects": {
+    "degrees": {
+      "path": "0/degrees",
+      "branch": "ai50/projects/2024/x/degrees",
+      "files": ["degrees.py"]
+    },
+    "tictactoe": {
+      "path": "0/tictactoe",
+      "branch": "ai50/projects/2024/x/tictactoe",
+      "files": ["tictactoe.py"]
+    },
+    "knights": {
+      "path": "1/knights",
+      "branch": "ai50/projects/2024/x/knights",
+      "files": ["puzzle.py"]
+    },
+    "minesweeper": {
+      "path": "1/minesweeper",
+      "branch": "ai50/projects/2024/x/minesweeper",
+      "files": ["minesweeper.py"]
+    },
+    "pagerank": {
+      "path": "2/pagerank",
+      "branch": "ai50/projects/2024/x/pagerank",
+      "files": ["pagerank.py"]
+    },
+    "heredity": {
+      "path": "2/heredity",
+      "branch": "ai50/projects/2024/x/heredity",
+      "files": ["heredity.py"]
+    },
+    "crossword": {
+      "path": "3/crossword",
+      "branch": "ai50/projects/2024/x/crossword",
+      "files": ["generate.py"]
+    },
+    "nim": {
+      "path": "4/nim",
+      "branch": "ai50/projects/2024/x/nim",
+      "files": ["nim.py"]
+    },
+    "shopping": {
+      "path": "4/shopping",
+      "branch": "ai50/projects/2024/x/shopping",
+      "files": ["shopping.py"]
+    },
+    "traffic": {
+      "path": "5/traffic",
+      "branch": "ai50/projects/2024/x/traffic",
+      "files": ["traffic.py", "README.md"]
+    },
+    "parser": {
+      "path": "6/parser",
+      "branch": "ai50/projects/2024/x/parser",
+      "files": ["parser.py"]
+    },
+    "questions": {
+      "path": "6/questions",
+      "branch": "ai50/projects/2024/x/questions",
+      "files": ["questions.py"]
+    }
+  }
+}

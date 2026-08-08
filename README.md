@@ -48,6 +48,22 @@ check50 ai50/projects/2024/x/degrees
 style50 degrees.py
 ```
 
+## Submitting coursework
+
+The repository includes a Windows PowerShell submission helper. After signing
+in once with `gh auth login` and running `gh auth setup-git`, submit a completed
+project from the repository root with:
+
+```powershell
+.\submit-cs50 degrees
+```
+
+Replace `degrees` with the project name, such as `tictactoe`, `minesweeper`, or
+`pagerank`. The settings in `cs50-submissions.json` determine the local project
+folder, required `me50` branch, and files permitted in each submission. The
+helper uses an isolated temporary checkout, so submitting does not alter this
+repository or include course datasets.
+
 ## Academic honesty
 
 This repository documents my personal coursework. If you are currently taking
