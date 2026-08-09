@@ -31,3 +31,5 @@ Thumbs.db
 # The Degrees large dataset is about 59 MB and can be restored from the
 # official CS50 AI distribution. The small dataset remains tracked for tests.
 0/degrees/large/
+
+5/traffic/gtsrb/
