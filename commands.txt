@@ -1,0 +1,3 @@
+Submit : 
+cd "C:\Users\Sacha Kefif\Desktop\CS50AI"
+.\submit-cs50 NAME
