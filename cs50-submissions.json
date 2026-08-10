@@ -56,6 +56,11 @@
       "branch": "ai50/projects/2024/x/parser",
       "files": ["parser.py"]
     },
+    "attention": {
+      "path": "6/attention",
+      "branch": "ai50/projects/2024/x/attention",
+      "files": ["mask.py", "analysis.md"]
+    },
     "questions": {
       "path": "6/questions",
       "branch": "ai50/projects/2024/x/questions",
